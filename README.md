@@ -17,7 +17,7 @@ This project involves exploratory data analysis (EDA) and data preprocessing on 
 - Data visualization using `ggplot2` and `corrplot`
 
 ## How to Run the Code
-1. Open the `student_analysis.R` or `analysis_report.Rmd` file in **RStudio**.
+1. Open the `Q1.R` or `analysis_report.Rmd` file in **RStudio**.
 2. Ensure that `kenya_student_data.csv` is in your working directory.
 3. Run all chunks sequentially or knit the `.Rmd` file to generate a PDF.
 4. The preprocessed dataset will be saved as:  
